@@ -1,0 +1,10 @@
+name: bibliometrics
+title:
+username: antarcticanz
+account: antarcticanz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11264950
+bundleId: 8271336
+url: https://antarcticanz.shinyapps.io/bibliometrics/
+version: 1
