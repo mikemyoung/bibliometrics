@@ -1,6 +1,6 @@
 # Bibliometrics
 
-Disseminate Antarctica New Zealand bibliometric data with R Shiny.
+Bibliometric Dashboard to Disseminate Antarctica New Zealand bibliometric data with R Shiny.
 
 
 # Installation
